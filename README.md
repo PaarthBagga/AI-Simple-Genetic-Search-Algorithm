@@ -1,7 +1,7 @@
 # 🧬 AI - Simple Genetic Algorithm Project
 
 ## 📌 Project Overview
-I developed this project with 10 group members for one of my courses. 
+This project was developed collaboratively for my Artificial Intelligence course.
 
 It implements a Simple Genetic Algorithm (SGA) to mimic evolutionary processes like natural selection, crossover, mutation, and elitism to solve optimization problems using different objective functions. The implementation includes three benchmark functions and two custom functions provided by our professor.
 
