@@ -1,4 +1,4 @@
-# 🧬 Simple Genetic Algorithm and Applications
+# 🧬 AI - Simple Genetic Algorithm Project
 
 ## 📌 Project Overview
 I developed this project with 10 group members for one of my courses. 
